@@ -41,4 +41,3 @@
 </table>
 
 <!-- Contribution Graph -->
-[![Aarti's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsaartii&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
