@@ -26,10 +26,19 @@
   </a>
 </div>
 
+<!-- GitHub Stats and Streak Side by Side -->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=itsaartii&show_icons=true&theme=radical" alt="Aarti's GitHub Stats" />
+    </td>
+    <td>
+      <!-- GitHub Streak -->
+      <img src="https://streak-stats.demolab.com/?user=itsaartii&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-
-<!-- Add your GitHub stats here -->
-![Aarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsaartii&show_icons=true&theme=radical)
-
-<!-- Add a streak badge or other badges you like -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsaartii&theme=radical)
+<!-- Contribution Graph -->
+[![Aarti's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsaartii&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
